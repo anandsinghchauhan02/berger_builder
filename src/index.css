@@ -13,7 +13,7 @@ code {
 }
 
 
-@import './components/Layout/Layout.css';
+@import './hoc/Layout/Layout.css';
 @import './components/Burger/Burger.css';
 @import './components/Burger/BurgerIngredient/BurgerIngredient.css';
 @import './components/Burger/BuildControls/BuildControls.css';
